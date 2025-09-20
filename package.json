@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-rp",
+  "version": "1.0.0",
+  "description": "Bot de Discord con abrir/cerrar servidor y registro de cédula",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.18.2"
+  }
+}
